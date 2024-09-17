@@ -4,7 +4,7 @@ export default {
     description:
         'Proficient in React, Node.js, MongoDB, and building responsive, scalable applications. Eager to contribute to innovative projects.Contributed to multiple projects including e-commerce development, implementing JWT authentication, and AWS for storage.Contributed to multiple projects including e-commerce development, implementing JWT authentication, and AWS for storage',
     email: 'mrumair775@gmail.com',
-    mobile: "03200066468",
+    mobile: "3200066468",
     portfolioLink: 'https://portfolio-6lypxaid7-uamirfarooq.vercel.app/',
     skills: [
         'React.js', 'Next.js', 'Redux Toolkit', 'Node.js', 'Express.js', 'MongoDB', 'SQL', 'AWS', 'Cloudinary'

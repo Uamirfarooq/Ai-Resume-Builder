@@ -39,7 +39,7 @@ const Home = () => {
         // User is not signed in
         <>
           <Typography variant="h4" gutterBottom>
-            Welcome to Our Platform!
+            Welcome to Our Ai Resume Builder!
           </Typography>
           <Typography variant="body1" sx={{ mb: 4 }}>
             Please sign in to access your account and explore our services.
